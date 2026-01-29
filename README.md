@@ -37,24 +37,17 @@ Hello! I'm a passionate full-stack developer with expertise in building scalable
 
 ## 💼 Featured Projects
 
-### 🔥 [bpmn-auto-layout-feat-IvanTulaev](https://github.com/IvanTulaev/bpmn-auto-layout-feat-IvanTulaev)
+### 🔥 [YABAL - Yet Another BPMN Auto Layout](https://github.com/IvanTulaev/yet-another-bpmn-auto-layout))
 **BPMN layout library**  - create and layout the graphical representation of a BPMN diagram.
-- Pools layout for collaborations & participants
+- Pools & lanes are layouted at participants pools
 - Expanded sub-processes with unlimited nesting
 - Collapsed sub-processes on nested diagrams
 - Excellent compatibility with Camunda
 - Independent process graphs at different grid lines
 - Verbose errors instead of crashes with line numbers
-- Debug mode for step-by-step layout
+- Debug mode for step-by-step layout visualisation
 - Large process graphs are more understandable for humans
 - **Status:** 🔧 In Development with production usage
-
-### 💰 [Salary calculator](https://salary-calculator.ru)
-**Salary calculator** - calculate your monthly average salary for the year
-- Current NDFL tax rates in the Russian Federation
-- Gross / Net choosing for effective salary negotiations
-- Minimalist design
-- **Status:** 🏄 In production
 
 ## 🤝 Collaboration
 
