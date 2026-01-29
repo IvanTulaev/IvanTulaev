@@ -37,7 +37,7 @@ Hello! I'm a passionate full-stack developer with expertise in building scalable
 
 ## 💼 Featured Projects
 
-### 🔥 [YABAL - Yet Another BPMN Auto Layout](https://github.com/IvanTulaev/yet-another-bpmn-auto-layout))
+### 🔥 [YABAL - Yet Another BPMN Auto Layout](https://github.com/IvanTulaev/yet-another-bpmn-auto-layout)
 **BPMN layout library**  - create and layout the graphical representation of a BPMN diagram.
 - Pools & lanes are layouted at participants pools
 - Expanded sub-processes with unlimited nesting
